@@ -6,4 +6,4 @@ Currently, the Student object has methods like borrowBook(), borrowJournal() wit
 
 To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for future changes (such as introducing audio books or e-journals), we need to refactor the program while maintaining SOLID principles. The goal is to create a robust system that can seamlessly accommodate new resource types in the future.
 
-<img src="https://github.com/JabezPastores/Lab_Assignment6/blob/main/Lec Assignment #6 Pastores 2BSCS1.PNG"></img>
+<img src="[https://github.com/JabezPastores/Lab_Assignment6/blob/main/Lec Assignment #6 Pastores 2BSCS1.PNG](https://github.com/JabezPastores/Dependency-Inversion/blob/main/Umldesign.png)"></img>
